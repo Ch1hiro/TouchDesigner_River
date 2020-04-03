@@ -6,7 +6,10 @@ Twitter(@S4Chihiro), Instagram(@_sano_chihiro_)でアップロードしたRiver�
     このファイルをTouchDesignerというソフトウェアで実行していただければもっと長い間動いている様子を見ることができます。
     
 この作品がみなさんの癒しになれれば嬉しいです。
+
 Sano Chihiro
+
+
 
 
 ***TouchDesignerをインストールしていない方へ***
