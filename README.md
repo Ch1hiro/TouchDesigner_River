@@ -1,5 +1,6 @@
 # TouchDesigner_River
-Twitter(@S4Chihiro), Instagram(@_sano_chihiro_)でアップロードしたRiverという作品の実行ファイルが入っています。
+Twitter(@S4Chihiro), Instagram(@_sano_chihiro_)でアップロードしたRiverという作品のソースコードが入っています。
+*TouchDesignerは2020.20625 buildでのみ動作の確認ができています。*
 (twitter: https://twitter.com/S4Chihiro/status/1244547474217263104)
 (Instagram: https://www.instagram.com/p/B-WfSu0g7Hz/)
 アップロードした動画では10秒間だけしか動いている様子をお届けできませんでしたが，
