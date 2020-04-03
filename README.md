@@ -1,5 +1,7 @@
 # TouchDesigner_River
 Twitter(@S4Chihiro), Instagram(@_sano_chihiro_)でアップロードしたRiverという作品の実行ファイルが入っています。
+(twitter: https://twitter.com/S4Chihiro/status/1244547474217263104)
+(Instagram: https://www.instagram.com/p/B-WfSu0g7Hz/)
 アップロードした動画では10秒間だけしか動いている様子をお届けできませんでしたが，
     このファイルをTouchDesignerというソフトウェアで実行していただければもっと長い間動いている様子を見ることができます。
     
@@ -22,6 +24,3 @@ TouchDesignerはこういったソフトウェアです。
 
 Windows: SHUHEI MATSUYAMAさん;"TouchDesignerのインストール方法"(Apr.03.2020accessed URL: https://www.shuhei-matsuyama.com/single-post/2015/12/17/TouchDesigner%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%96%B9%E6%B3%95)
 Mac: kaiho099さん;"TouchDesignerのインストール方法について【Mac】ver"(Apr.03.2020accessed URL: https://kaiho099.hatenablog.com/entry/2019/12/13/181805)
-
-(twitter: https://twitter.com/S4Chihiro/status/1244547474217263104)
-(Instagram: https://www.instagram.com/p/B-WfSu0g7Hz/)
